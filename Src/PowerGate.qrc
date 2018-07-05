@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/theme">
+        <file>Dark.thm</file>
+        <file>Light.thm</file>
+        <file>Gray.thm</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>disconnect.png</file>
+        <file>connect.png</file>
+        <file>Letter-P-black-icon.png</file>
+    </qresource>
+    <qresource prefix="/trans">
+        <file>PowerGate.qm</file>
+    </qresource>
+</RCC>

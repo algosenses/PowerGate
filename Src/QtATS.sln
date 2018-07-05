@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QtATS", "QtATS.vcxproj", "{D0F157EE-0BA5-3243-88B9-CA658635A816}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Commander", "Commander\Commander.vcxproj", "{12871BF0-8E10-4384-BF1C-E88A1F6172C5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Random", "Random\Random.vcxproj", "{F70DF40F-0C32-440C-9CCA-B7834ECC15A0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MMAD", "..\..\Strategies\LiveTrading\MMAD\MMAD.vcxproj", "{4AE3D5AA-9FC6-4688-9CA4-03C84FD11B02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0F157EE-0BA5-3243-88B9-CA658635A816}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D0F157EE-0BA5-3243-88B9-CA658635A816}.Debug|Win32.Build.0 = Debug|Win32
+		{D0F157EE-0BA5-3243-88B9-CA658635A816}.Release|Win32.ActiveCfg = Release|Win32
+		{D0F157EE-0BA5-3243-88B9-CA658635A816}.Release|Win32.Build.0 = Release|Win32
+		{12871BF0-8E10-4384-BF1C-E88A1F6172C5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{12871BF0-8E10-4384-BF1C-E88A1F6172C5}.Debug|Win32.Build.0 = Debug|Win32
+		{12871BF0-8E10-4384-BF1C-E88A1F6172C5}.Release|Win32.ActiveCfg = Release|Win32
+		{12871BF0-8E10-4384-BF1C-E88A1F6172C5}.Release|Win32.Build.0 = Release|Win32
+		{F70DF40F-0C32-440C-9CCA-B7834ECC15A0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F70DF40F-0C32-440C-9CCA-B7834ECC15A0}.Debug|Win32.Build.0 = Debug|Win32
+		{F70DF40F-0C32-440C-9CCA-B7834ECC15A0}.Release|Win32.ActiveCfg = Release|Win32
+		{F70DF40F-0C32-440C-9CCA-B7834ECC15A0}.Release|Win32.Build.0 = Release|Win32
+		{4AE3D5AA-9FC6-4688-9CA4-03C84FD11B02}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4AE3D5AA-9FC6-4688-9CA4-03C84FD11B02}.Debug|Win32.Build.0 = Debug|Win32
+		{4AE3D5AA-9FC6-4688-9CA4-03C84FD11B02}.Release|Win32.ActiveCfg = Release|Win32
+		{4AE3D5AA-9FC6-4688-9CA4-03C84FD11B02}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
