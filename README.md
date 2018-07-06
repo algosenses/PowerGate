@@ -9,7 +9,9 @@ PowerGate的主要目的是帮助用户管理交易策略，它的功能包括�
 5. 每日定时重启，做到无人值守。  
 6. 异常情况邮件报警。  
 7. 可设置认证服务器，只有通过认证才能启动。  
-8. ...
+8. ...  
+## 下载  
+在[www.algo.trade](<http://www.algo.trade>)可以找到一个可运行的版本。
 ## 界面
 PowerGate的主界面如下：  
-![](Doc/PowerGate.png)
+![](Doc/PowerGate.png)  
